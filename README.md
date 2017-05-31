@@ -1,5 +1,7 @@
 # Boostrap4ang
 
+This is a simple site created with Angular 4, Bootstrap 4, and ng-bootstrap to demonstrate how all three work together to build a quick, simple, component based solution for web app projects.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.4.
 
 ## Development server

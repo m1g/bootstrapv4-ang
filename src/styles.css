@@ -22,6 +22,21 @@ body {
   width: 100%;
 }
 
+.section-content {
+  padding: 5rem 0;
+}
+
+#about {
+  background: url('./assets/girlincar.jpg') center center no-repeat;
+  background-size: cover;
+}
+
+.about-text {
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 1.875rem;
+}
+
 .card-block {
   flex: none;
 }
