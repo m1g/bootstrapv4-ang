@@ -1,16 +1,27 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 @import "~font-awesome/css/font-awesome.css";
 
+html,
 body {
-  padding-top: 5rem;
+  height: 100%;
 }
 
-html {
-  position: relative;
-  min-height: 100%;
-}
+/* cover */
 
-.starter-template {
-  padding: 3rem 1.5rem;
+#cover {
+  background: #222 url("./assets/stars.jpg") center center no-repeat;
+  background-size: cover;
+  color: #fff;
+  height: 100%;
   text-align: center;
+  display: flex;
+  align-items: center;
+}
+
+#cover-caption {
+  width: 100%;
+}
+
+.card-block {
+  flex: none;
 }
